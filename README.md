@@ -1,4 +1,4 @@
-# Sugar Shell - A Terminal User Interface (TUI) Library
+# Sugarline - A Terminal User Interface (TUI) Library
 
 A lightweight, header-only C++ TUI library for creating interactive terminal applications with components like buttons, menus, labels, and containers.
 
