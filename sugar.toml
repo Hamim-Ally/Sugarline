@@ -1,0 +1,10 @@
+# SugarBuilder Configuration - sugar-shell
+
+project_name = "sugar-shell"
+project_type = "static"
+compiler = "MSVC"
+platform = "Windows"
+
+source_paths = ["src", "src/components", "src/events", "src/utils"]
+build_path = "build"
+output_path = "lib"
